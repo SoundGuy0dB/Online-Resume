@@ -1,0 +1,46 @@
+html{
+    font-family: 'Aoboshi One', serif;
+    background-color: #537188;
+}
+
+h1{
+    text-shadow: 2px 2px#E1D4BB;
+}
+
+h2{
+    text-shadow: 2px 2px#E1D4BB;
+}
+
+#header{
+    text-align: center;
+    background-color: #CBB279;
+    border-radius: 10px;
+    border: solid #E1D4BB 5px;    
+    }
+
+.flex-container{
+        display: flex;
+      }
+
+.image-banner{
+    flex: 2;
+}      
+
+.image-container{
+    border: solid #E1D4BB 5px;
+    border-radius: 10px;   
+    height: 150px;
+    width: 150px;
+    position: relative;
+    }
+
+.text-container{
+    background-color: #CBB279;
+    border-radius: 10px;  
+    border: solid #E1D4BB 5px;
+    padding: 10px;
+}
+
+#footer{
+    color: #E1D4BB;
+}
